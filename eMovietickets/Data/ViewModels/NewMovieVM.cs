@@ -1,6 +1,6 @@
 ﻿using eMovietickets.Data;
 using eMovietickets.Data.Base;
-//using eMovietickets.Data.Enums;
+using eMovietickets.Data.Enums;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
